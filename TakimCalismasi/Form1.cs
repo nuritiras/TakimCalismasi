@@ -29,7 +29,12 @@ namespace TakimCalismasi
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("akbaş ile enesi hoca basmış")
+            MessageBox.Show("selimin takım çalışması");
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("enesin kendi yaptığı ilk takım çalışması");
         }
     }
 }
