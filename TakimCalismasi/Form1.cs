@@ -26,5 +26,10 @@ namespace TakimCalismasi
         {
             MessageBox.Show("Benim ilk takım çalışmam.");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("akbaş ile enesi hoca basmış")
+        }
     }
 }
