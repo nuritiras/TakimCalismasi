@@ -21,5 +21,10 @@ namespace TakimCalismasi
         {
             MessageBox.Show("Bismillah her hayrın başıdır");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Benim ilk takım çalışmam.");
+        }
     }
 }
