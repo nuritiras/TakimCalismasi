@@ -39,7 +39,7 @@
             this.button1.Location = new System.Drawing.Point(33, 17);
             this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(61, 44);
+            this.button1.Size = new System.Drawing.Size(61, 54);
             this.button1.TabIndex = 0;
             this.button1.Text = "Nuri TIRAŞ";
             this.button1.UseVisualStyleBackColor = true;
@@ -47,9 +47,9 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(111, 17);
+            this.button2.Location = new System.Drawing.Point(99, 17);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(61, 44);
+            this.button2.Size = new System.Drawing.Size(61, 54);
             this.button2.TabIndex = 1;
             this.button2.Text = "Enes Akçam";
             this.button2.UseVisualStyleBackColor = true;
@@ -57,9 +57,9 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(178, 17);
+            this.button3.Location = new System.Drawing.Point(166, 17);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 44);
+            this.button3.Size = new System.Drawing.Size(61, 54);
             this.button3.TabIndex = 2;
             this.button3.Text = "Selim";
             this.button3.UseVisualStyleBackColor = true;
@@ -67,9 +67,9 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(19, 84);
+            this.button4.Location = new System.Drawing.Point(233, 17);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(75, 44);
+            this.button4.Size = new System.Drawing.Size(61, 54);
             this.button4.TabIndex = 3;
             this.button4.Text = "enes\'in kendi yaptığı";
             this.button4.UseVisualStyleBackColor = true;
