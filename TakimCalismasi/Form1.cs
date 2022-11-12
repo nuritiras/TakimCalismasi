@@ -41,5 +41,10 @@ namespace TakimCalismasi
         {
             MessageBox.Show("Anıl'ın takım çalışmasi.");
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Celal'in takım çalışması.");
+        }
     }
 }
